@@ -2,6 +2,10 @@
 
 Welcome to the E-Commerce Shopping Website Template! This template is designed to help you quickly set up a professional and functional online store.
 
+## Project
+
+Check out the live version of the project [here](https://ecommerce-shopping-cara.netlify.app/).
+
 ## ✨ Features
 
 - Responsive design for all devices
